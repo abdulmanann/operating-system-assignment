@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\Third Semester\\Data Structures and Algorithms\\SemesterProject"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Third Semester\\Data Structures and Algorithms\\DSASemesterProject"
+		},
+		{
+			"path": "..\\..\\..\\..\\Web Engineering\\Labs"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.tcc": "cpp",
+			"iostream": "cpp",
+			"ostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "Labs"
+	}
+}
