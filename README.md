@@ -4,4 +4,4 @@ This is the project that was assigned in Computer Assembly and Organization cour
 The working of the project is explained here [https://abdulmanann.github.io/project/operation-system/](https://abdulmanann.github.io/project/operation-system/)
 
 Required output: 
-
+![output](output.PNG)
